@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: cont1
-          image: akhila2701/php-app-image 
+          image: akhila2701/php-app-image
           ports:
             - containerPort: 80
 
